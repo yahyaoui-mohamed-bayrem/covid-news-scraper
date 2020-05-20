@@ -1,0 +1,16 @@
+{
+  "name": "covid-news-scraping-module",
+  "version": "1.0.0",
+  "description": "gather covid news using scraping with cheerio",
+  "main": "covidScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YAHYAOUI_Mohamed_Bayrem",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  }
+}
